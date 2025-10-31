@@ -82,7 +82,7 @@
       </div>
 
       <span class="link-block">
-        <a href="https://arxiv.org/pdf/" class="external-link button is-normal is-rounded is-dark">
+        <a href="https://arxiv.org/abs/2510.26098" class="external-link button is-normal is-rounded is-dark">
           <span class="icon">
             <svg xmlns="http://www.w3.org/2000/svg" width="1.0em" height="1.0em" viewBox="0 0 24 24">
               <path fill="currentColor"
@@ -298,7 +298,7 @@
   author={Chenrui Shi, Zedong YU, Zhi Gao, Ruining Feng, Enqi Liu, Yuwei Wu, Yunde Jia, Liuyu Xiang, Zhaofeng He, Qing Li},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={2025}
-  url = {coming soon}
+  url = {https://arxiv.org/abs/2510.26098}
 }
 </code></pre>
       </div>
