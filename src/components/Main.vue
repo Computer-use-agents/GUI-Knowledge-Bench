@@ -296,7 +296,7 @@
 @article{Shi2025GUIBench,
   title = {GUI Knowledge Bench: Revealing the Knowledge Gap Behind VLM Failures in GUI Tasks},
   author={Chenrui Shi, Zedong YU, Zhi Gao, Ruining Feng, Enqi Liu, Yuwei Wu, Yunde Jia, Liuyu Xiang, Zhaofeng He, Qing Li},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2510.26098},
   year={2025}
   url = {https://arxiv.org/abs/2510.26098}
 }
